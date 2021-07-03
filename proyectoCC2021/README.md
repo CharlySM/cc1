@@ -18,4 +18,4 @@ Para empezar a desarrollar y desplegar el proyecto se han realizado una serie de
 
 La licencia estaba añadida en el repositorio [cc1](https://github.com/CharlySM/cc1) pero se ha añadido el fichero LICENSE en la carpeta [proyectoCC2021](https://github.com/CharlySM/cc1/tree/main/proyectoCC2021) también.
 
-[Licencia](https://github.com/CharlySM/cc1/blob/main/LICENSE)
+[Licencia](https://github.com/CharlySM/cc1/blob/main/LICENSE) 
