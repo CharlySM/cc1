@@ -12,5 +12,5 @@ Para empezar a desarrollar y desplegar el proyecto se han realizado una serie de
 
 ## Hito 0.
 ### Issues.
-[Issue 1](https://github.com/CharlySM/cc1/issues/5)
-[Issue 2](https://github.com/CharlySM/cc1/issues/7)
+1. [Issue 1](https://github.com/CharlySM/cc1/issues/5)
+2. [Issue 2](https://github.com/CharlySM/cc1/issues/7)
