@@ -25,12 +25,12 @@ Se va a explicar los pasos seguidos para la creación del repositorio del proyec
   Esta parte se realizó en la asignatura de Infraestructura virtual del grado de ingeniería informática de la Univesidad de Granada.
 
 # 5. Incrementar la seguridad de nuestra cuenta en GitHub activando el segundo factor de autenticación.
-  * Primero vamos a Settings -> Two factor authentication
+  * Primero vamos a Settings -> Account Security -> Enable Two factor authentication
 
   ![Página factor autenticacion dos pasos](https://github.com/CharlySM/cc1/blob/features/hito0/proyectoCC2021/doc/img/autentication.PNG "Página factor autenticacion dos pasos")
 
   Lo activamos por app o por sms.
-  
+
   * Activación.
 
   ![Activacion autentificacion dos pasos](https://github.com/CharlySM/cc1/blob/features/hito0/proyectoCC2021/doc/img/activacion.PNG "Activacion autentificacion dos pasos")
