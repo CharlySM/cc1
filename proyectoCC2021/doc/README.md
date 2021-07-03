@@ -34,3 +34,16 @@ Se va a explicar los pasos seguidos para la creación del repositorio del proyec
   * Activación.
 
   ![Activacion autentificacion dos pasos](https://github.com/CharlySM/cc1/blob/features/hito0/proyectoCC2021/doc/img/activacion.PNG "Activacion autentificacion dos pasos")
+
+# Creación del repositorio y configuración de git
+Para crear el repositorio se ha creado la carpeta de proyecto en local añadiendo los ficheros se necesitaban.
+
+Para el [issue 1](https://github.com/CharlySM/cc1/issues/5) del hito 0, se añadió un fichero readme.md en la carpeta del proyecto.
+
+Para añadir la documentación se ha añadido dentro de la carpeta el proyecto una carpeta llamada doc y dentro de doc, se ha añadido un fichero readme.md (este mismo fichero) donde se explica la configuración de git y la creación de la carpeta del proyecto. Esto se ha hecho en el [issue 2](https://github.com/CharlySM/cc1/issues/7) del hito 0.
+
+Se ha incluido el fichero de licencia dentro de la carpeta del proyecto, aunque este fichero ya estaba en la [carpeta del repositorio cc1](https://github.com/CharlySM/cc1). Esto se ha hecho para el [issue 3](https://github.com/CharlySM/cc1/issues/10) del hito 0.
+
+Se ha añadido también el fichero [.gitignore](https://github.com/CharlySM/cc1/blob/main/proyectoCC2021/.gitignore) actualmente esta vacío pero se espera que a lo largo del desarrollo de la asignatura se empiece a añadir ficheros que se excluyan en el .gitignore.
+
+Despues de la creación del fichero se subió a git usando el comando ```git push origin features/hito0``` siendo features/hito0 la rama donde se esta subiendo lo realizado el hito 0. Después cuando se terminó el hito 0 en la rama mencionada se hizo un pull request a la rama main del repositorio
