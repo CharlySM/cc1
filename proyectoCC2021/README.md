@@ -10,7 +10,10 @@ Los datos usados para este aplicación se extraen de un dataset de kaggle llamad
 
 Para empezar a desarrollar y desplegar el proyecto se han realizado una serie de pasos descritos en un fichero aparte llamado despliegueInicial.
 
+Para comenzar se ha creado este repositorio y se ha configurado git como se describe en la [documentación](https://github.com/CharlySM/cc1/blob/main/proyectoCC2021/doc/README.md).
+
 ## Hito 0.
+La creación del repositorio y configuración de git esta descrita en la carpeta doc dentro de esta misma carpeta en el fichero [README](https://github.com/CharlySM/cc1/blob/main/proyectoCC2021/doc/README.md)
 ### Issues.
 1. [Issue 1](https://github.com/CharlySM/cc1/issues/5)
 2. [Issue 2](https://github.com/CharlySM/cc1/issues/7)
@@ -18,4 +21,4 @@ Para empezar a desarrollar y desplegar el proyecto se han realizado una serie de
 
 La licencia estaba añadida en el repositorio [cc1](https://github.com/CharlySM/cc1) pero se ha añadido el fichero LICENSE en la carpeta [proyectoCC2021](https://github.com/CharlySM/cc1/tree/main/proyectoCC2021) también.
 
-[Licencia](https://github.com/CharlySM/cc1/blob/main/LICENSE) 
+[Licencia](https://github.com/CharlySM/cc1/blob/main/LICENSE)
