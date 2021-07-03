@@ -10,7 +10,12 @@ Los datos usados para este aplicación se extraen de un dataset de kaggle llamad
 
 Para empezar a desarrollar y desplegar el proyecto se han realizado una serie de pasos descritos en un fichero aparte llamado despliegueInicial.
 
-## Hito 0. 
+## Hito 0.
 ### Issues.
 1. [Issue 1](https://github.com/CharlySM/cc1/issues/5)
 2. [Issue 2](https://github.com/CharlySM/cc1/issues/7)
+3. [Issue 3](https://github.com/CharlySM/cc1/issues/10)
+
+La licencia estaba añadida en el repositorio [cc1](https://github.com/CharlySM/cc1) pero se ha añadido el fichero LICENSE en la carpeta [proyectoCC2021](https://github.com/CharlySM/cc1/tree/main/proyectoCC2021) también.
+
+[Licencia](https://github.com/CharlySM/cc1/blob/main/LICENSE) 
