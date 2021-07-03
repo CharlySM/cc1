@@ -10,7 +10,7 @@ Los datos usados para este aplicación se extraen de un dataset de kaggle llamad
 
 Para empezar a desarrollar y desplegar el proyecto se han realizado una serie de pasos descritos en un fichero aparte llamado despliegueInicial.
 
-## Hito 0.
+## Hito 0. 
 ### Issues.
 1. [Issue 1](https://github.com/CharlySM/cc1/issues/5)
 2. [Issue 2](https://github.com/CharlySM/cc1/issues/7)
